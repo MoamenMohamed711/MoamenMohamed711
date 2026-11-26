@@ -54,16 +54,16 @@
 
 <h2 id="workflow">My Data Analysis Workflow</h2>
 
-<p align="center"><strong>❓ Ask ➜ 📥 Collect ➜ 🧹 Clean ➜ 🔍 Analyze ➜ 📊 Visualize ➜ 💡 Share</strong></p>
+<p align="center"><strong> Ask ➜  Collect ➜  Clean ➜  Analyze ➜  Visualize ➜  Share</strong></p>
 
 <table align="center">
   <tr><th>Step</th><th>Key question</th><th>Tools</th></tr>
-  <tr><td>❓ <strong>Ask</strong></td><td>What problem are we solving?</td><td>Business Understanding & Problem Solving</td></tr>
-  <tr><td>📥 <strong>Collect</strong></td><td>Where is the data?</td><td>SQL, Excel</td></tr>
-  <tr><td>🧹 <strong>Clean</strong></td><td>Can we trust it?</td><td>Power Query, Python</td></tr>
-  <tr><td>🔍 <strong>Analyze</strong></td><td>What patterns appear?</td><td>SQL, Python, Excel</td></tr>
-  <tr><td>📊 <strong>Visualize</strong></td><td>What is the clearest way to show it?</td><td>Power BI, Excel</td></tr>
-  <tr><td>💡 <strong>Share</strong></td><td>What should we do next?</td><td>Dashboards, Reports</td></tr>
+  <tr><td> <strong>Ask</strong></td><td>What problem are we solving?</td><td>Business Understanding & Problem Solving</td></tr>
+  <tr><td> <strong>Collect</strong></td><td>Where is the data?</td><td>SQL, Excel</td></tr>
+  <tr><td> <strong>Clean</strong></td><td>Can we trust it?</td><td>Power Query, Python</td></tr>
+  <tr><td> <strong>Analyze</strong></td><td>What patterns appear?</td><td>SQL, Python, Excel</td></tr>
+  <tr><td> <strong>Visualize</strong></td><td>What is the clearest way to show it?</td><td>Power BI, Excel</td></tr>
+  <tr><td> <strong>Share</strong></td><td>What should we do next?</td><td>Dashboards, Reports</td></tr>
 </table>
 
 <h3>My Data Cleaning Checklist</h3>
