@@ -78,18 +78,6 @@
 
 <hr>
 
-<h2>📂 Featured Projects</h2>
-
-<!-- Replace the text in [brackets] and the YOUR_REPO links with your real projects. -->
-<table align="center">
-  <tr><th>Project</th><th>Description</th><th>Tools</th></tr>
-  <tr><td>🛒 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">[Project 1 name]</a></td><td>[Question and main insight]</td><td>[Tools]</td></tr>
-  <tr><td>👥 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">[Project 2 name]</a></td><td>[Question and main insight]</td><td>[Tools]</td></tr>
-  <tr><td>💰 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">[Project 3 name]</a></td><td>[Question and main insight]</td><td>[Tools]</td></tr>
-</table>
-
-<hr>
-
 <h2>🎨 My Dashboard Palette</h2>
 
 <p align="center">
