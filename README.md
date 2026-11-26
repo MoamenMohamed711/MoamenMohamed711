@@ -52,7 +52,7 @@
 
 <hr>
 
-<h2 id="workflow">🔁 My Data Analysis Workflow</h2>
+<h2 id="workflow">My Data Analysis Workflow</h2>
 
 <p align="center"><strong>❓ Ask ➜ 📥 Collect ➜ 🧹 Clean ➜ 🔍 Analyze ➜ 📊 Visualize ➜ 💡 Share</strong></p>
 
@@ -66,20 +66,20 @@
   <tr><td>💡 <strong>Share</strong></td><td>What should we do next?</td><td>Dashboards, Reports</td></tr>
 </table>
 
-<h3>✅ My Data Cleaning Checklist</h3>
+<h3>My Data Cleaning Checklist</h3>
 
 <ul>
-  <li>🔁 Remove duplicate records</li>
-  <li>🕳️ Handle missing values</li>
-  <li>🔤 Standardize text and formats</li>
-  <li>📅 Fix data types and dates</li>
-  <li>🚨 Check outliers and unusual values</li>
-  <li>🧪 Validate totals before reporting</li>
+  <li> Remove duplicate records</li>
+  <li> Handle missing values</li>
+  <li> Standardize text and formats</li>
+  <li> Fix data types and dates</li>
+  <li> Check outliers and unusual values</li>
+  <li> Validate totals before reporting</li>
 </ul>
 
 <hr>
 
-<h2 id="design">🎨 Dashboard Design Principles</h2>
+<h2 id="design">Dashboard Design Principles</h2>
 
 <table align="center">
   <tr>
@@ -100,7 +100,7 @@
 
 <hr>
 
-<h2 align="center">🔄 The Data Cycle</h2>
+<h2 align="center">The Data Cycle</h2>
 
 <div align="center">
   <h1>😵‍💫 ➜ 🧹 ➜ 😌 ➜ 📊 ➜ 🤩</h1>
